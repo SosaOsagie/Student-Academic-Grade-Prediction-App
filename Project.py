@@ -13,9 +13,9 @@ from sklearn.model_selection import train_test_split
 
 
 # Set the working directory to the location of your pickled files
-os.chdir('C:/Users/HP/Desktop/Untitled Folder/')
+os.chdir('C:/Users/HP/Desktop/Project App/')
 
-student_data = pickle.load(open('C:/Users/HP/Desktop/Untitled Folder/student_data.pkl', 'rb'))
+student_data = pickle.load(open('C:/Users/HP/Desktop/Project App/student_data.pkl', 'rb'))
 
 def train_evaluate_model(student_data):
     # Drop rows with missing target values
