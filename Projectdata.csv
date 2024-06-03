@@ -1,0 +1,353 @@
+Age,Gender,Course,Year,Marital Status,Grade,How often have you felt down or hopeless?,"How often have you had trouble falling or staying asleep, or slept too much?",How often have you felt tired or had little energy?,"How often have you felt nervous, anxious, or on edge?",How often have you become easily annoyed or irritable?,How frequently do you experience panic attacks?,"On average, how many hours per day do you spend on social media?",How many alcoholic drinks/beer do you consume in a typical week?,How many hours of sleep do you usually get on a typical night?,How many hours a day do you put aside for studying?
+54,Male,Construction mgt,Post Graduate,Married,First Class,Occasionally,Occasionally,Occasionally,Occasionally,Sometimes,Occasionally,7-8 hours,5 to 6,5-6 hours,3-4 hours
+18,Male,Computer sciences,Second Year,Single,First Class,Not at all,Occasionally,Occasionally,Frequently,Sometimes,Occasionally,3-4 hours,1 to 2,5-6 hours,1-2 hours
+25,Female,Agriculture Economics ,Post Graduate,Single,Second Class Lower,Occasionally,Occasionally,Occasionally,Occasionally,Sometimes,Never,5-6 hours,0,5-6 hours,3-4 hours
+19,Female,Genetics and Biotechnology ,Second Year,Single,First Class,Almost constantly,Frequently,Occasionally,Occasionally,Sometimes,Occasionally,5-6 hours,0,7-8 hours,3-4 hours
+25,Male,Mathematics and Computer Science,Fourth Year,Single,Second Class Upper,Frequently,Frequently,Occasionally,Frequently,Sometimes,Frequently,5-6 hours,0,Less than 5 hours,0
+20,Male,Computer Engineering ,Fifth Year,Single,Second Class Lower,Frequently,Occasionally,Occasionally,Occasionally,Sometimes,Rarely,7-8 hours,0,5-6 hours,0
+20,Male,Computer Science ,Fourth Year,Single,Second Class Upper,Occasionally,Occasionally,Occasionally,Occasionally,Sometimes,Never,0-2 hours,0,5-6 hours,1-2 hours
+25,Male,Computer science ,Fourth Year,Single,First Class,Occasionally,Not at all,Occasionally,Not at all,Never,Never,5-6 hours,0,7-8 hours,1-2 hours
+19,Male,Fine arts and design ,First Year,Single,Second Class Lower,Almost constantly,Occasionally,Occasionally,Frequently,Sometimes,Rarely,0-2 hours,0,7-8 hours,1-2 hours
+18,Female,Psychology,Second Year,Single,Second Class Lower,Almost constantly,Almost constantly,Almost constantly,Occasionally,Always,Occasionally,5-6 hours,0,7-8 hours,1-2 hours
+24,Male,Computer Science ,Fourth Year,Single,First Class,Occasionally,Occasionally,Occasionally,Frequently,Always,Occasionally,5-6 hours,3 to 4,5-6 hours,1-2 hours
+20,Female,Accounting ,Fourth Year,Single,Second Class Upper,Occasionally,Occasionally,Almost constantly,Occasionally,Sometimes,Rarely,3-4 hours,0,5-6 hours,1-2 hours
+28,Male,Science Education ,Fourth Year,Single,Second Class Lower,Occasionally,Occasionally,Occasionally,Occasionally,Sometimes,Rarely,0-2 hours,0,5-6 hours,1-2 hours
+20,Male,Microbiology ,Fourth Year,Single,First Class,Almost constantly,Frequently,Occasionally,Occasionally,Sometimes,Never,5-6 hours,0,Less than 5 hours,5-6 hours
+18,Male,Computer science ,First Year,Single,Second Class Upper,Occasionally,Not at all,Frequently,Frequently,Sometimes,Rarely,5-6 hours,1 to 2,5-6 hours,3-4 hours
+16,Female,Law,First Year,Single,First Class,Occasionally,Occasionally,Frequently,Occasionally,Sometimes,Rarely,9-10 hours,1 to 2,5-6 hours,1-2 hours
+22,Female,Nursing Science ,Fourth Year,Single,First Class,Occasionally,Frequently,Almost constantly,Occasionally,Sometimes,Occasionally,7-8 hours,0,5-6 hours,3-4 hours
+17,Female,Law,Second Year,Single,Second Class Upper,Occasionally,Not at all,Frequently,Occasionally,Always,Rarely,10 or more,0,9 or more hours,0
+16,Male,Computer science ,First Year,Single,First Class,Occasionally,Not at all,Occasionally,Frequently,Sometimes,Never,3-4 hours,0,5-6 hours,3-4 hours
+21,Male,Law,Fifth Year,Single,Second Class Upper,Frequently,Frequently,Frequently,Almost constantly,Sometimes,Occasionally,5-6 hours,0,5-6 hours,1-2 hours
+19,Male,Computer science,Fourth Year,Single,Second Class Upper,Frequently,Almost constantly,Almost constantly,Frequently,Always,Occasionally,5-6 hours,0,Less than 5 hours,1-2 hours
+25,Male,Nursing ,Fifth Year,Married,First Class,Occasionally,Not at all,Frequently,Occasionally,Sometimes,Rarely,5-6 hours,1 to 2,5-6 hours,1-2 hours
+20,Female,Computer Engineering ,Fourth Year,Single,Second Class Upper,Frequently,Frequently,Almost constantly,Frequently,Sometimes,Occasionally,3-4 hours,0,7-8 hours,3-4 hours
+17,Male,Computer science,Second Year,Single,First Class,Not at all,Occasionally,Occasionally,Occasionally,Sometimes,Rarely,0-2 hours,0,Less than 5 hours,0
+19,Male,Computer Science,Third Year,Single,Second Class Lower,Occasionally,Frequently,Occasionally,Frequently,Sometimes,Rarely,5-6 hours,1 to 2,7-8 hours,1-2 hours
+22,Male,Economics ,Fourth Year,Single,First Class,Occasionally,Not at all,Occasionally,Occasionally,Sometimes,Rarely,7-8 hours,0,7-8 hours,1-2 hours
+20,Female,Law,Fifth Year,Single,First Class,Frequently,Almost constantly,Frequently,Frequently,Sometimes,Never,9-10 hours,0,5-6 hours,1-2 hours
+23,Male,Computer science,Second Year,Single,Second Class Lower,Occasionally,Frequently,Almost constantly,Frequently,Sometimes,Occasionally,5-6 hours,0,Less than 5 hours,1-2 hours
+23,Male,Computer science ,Post Graduate,Single,Second Class Lower,Occasionally,Frequently,Frequently,Frequently,Always,Occasionally,7-8 hours,0,Less than 5 hours,0
+20,Female,Biology ,Post Graduate,Single,Second Class Upper,Almost constantly,Frequently,Frequently,Frequently,Sometimes,Frequently,7-8 hours,0,7-8 hours,3-4 hours
+19,Female,Law,Fourth Year,Single,Second Class Upper,Occasionally,Frequently,Frequently,Frequently,Always,Occasionally,5-6 hours,0,5-6 hours,1-2 hours
+21,Male,Computer Science ,Fourth Year,Single,Second Class Upper,Occasionally,Occasionally,Occasionally,Occasionally,Always,Rarely,3-4 hours,0,5-6 hours,5-6 hours
+19,Female,Medical laboratory science ,Fifth Year,Single,First Class,Occasionally,Occasionally,Frequently,Occasionally,Sometimes,Never,10 or more,0,7-8 hours,0
+22,Female,Medical laboratory science,Fourth Year,Single,Second Class Upper,Frequently,Occasionally,Occasionally,Almost constantly,Sometimes,Occasionally,10 or more,0,5-6 hours,0
+20,Male,Medical Laboratory Science,Fifth Year,Single,First Class,Not at all,Occasionally,Occasionally,Occasionally,Sometimes,Never,5-6 hours,0,5-6 hours,3-4 hours
+21,Female,Medical laboratory science ,Fifth Year,Single,First Class,Occasionally,Occasionally,Occasionally,Occasionally,Sometimes,Never,3-4 hours,0,5-6 hours,3-4 hours
+22,Female,Computer Science,Fourth Year,Single,Second Class Upper,Occasionally,Not at all,Almost constantly,Almost constantly,Always,Never,3-4 hours,0,Less than 5 hours,3-4 hours
+17,Female,Nursing science ,Second Year,Single,Second Class Upper,Frequently,Occasionally,Almost constantly,Frequently,Sometimes,Rarely,3-4 hours,0,5-6 hours,0
+22,Female,Medical laboratory science ,Fourth Year,Single,Second Class Lower,Occasionally,Occasionally,Occasionally,Occasionally,Sometimes,Never,3-4 hours,0,Less than 5 hours,5-6 hours
+19,Male,Nursing ,Second Year,Single,Second Class Lower,Frequently,Occasionally,Frequently,Almost constantly,Always,Frequently,5-6 hours,1 to 2,Less than 5 hours,5-6 hours
+21,Female,Computer Science,Fourth Year,Single,Second Class Lower,Occasionally,Frequently,Occasionally,Occasionally,Sometimes,Occasionally,7-8 hours,0,5-6 hours,3-4 hours
+24,Male,Masters,Post Graduate,Single,First Class,Occasionally,Almost constantly,Occasionally,Frequently,Sometimes,Occasionally,5-6 hours,0,7-8 hours,0
+18,Female,Q,First Year,Single,Second Class Upper,Frequently,Occasionally,Occasionally,Occasionally,Sometimes,Rarely,5-6 hours,0,Less than 5 hours,0
+24,Male,Fine Arts and Design ,Post Graduate,Single,Second Class Upper,Occasionally,Occasionally,Occasionally,Occasionally,Sometimes,Rarely,5-6 hours,0,5-6 hours,1-2 hours
+19,Female,Chemistry ,First Year,Single,Second Class Lower,Almost constantly,Almost constantly,Almost constantly,Almost constantly,Always,Rarely,9-10 hours,0,Less than 5 hours,0
+17,Female,Computer Science ,First Year,Single,Second Class Lower,Occasionally,Not at all,Occasionally,Occasionally,Sometimes,Occasionally,5-6 hours,0,5-6 hours,1-2 hours
+21,Female,International Law,Fourth Year,Single,First Class,Occasionally,Frequently,Frequently,Occasionally,Never,Never,0-2 hours,3 to 4,5-6 hours,3-4 hours
+20,Female,Architecture ,Fourth Year,Single,Second Class Lower,Frequently,Almost constantly,Frequently,Occasionally,Sometimes,Rarely,3-4 hours,0,Less than 5 hours,1-2 hours
+18,Female,Psychology ,Third Year,Single,Second Class Upper,Frequently,Almost constantly,Almost constantly,Frequently,Sometimes,Rarely,5-6 hours,0,Less than 5 hours,1-2 hours
+19,Female,Medicine and Surgery ,Second Year,Single,Second Class Upper,Frequently,Almost constantly,Almost constantly,Occasionally,Always,Rarely,7-8 hours,0,Less than 5 hours,3-4 hours
+20,Female,International relations and diplomacy ,Third Year,Single,Third Class,Almost constantly,Almost constantly,Almost constantly,Almost constantly,Always,Frequently,5-6 hours,0,7-8 hours,0
+19,Male,Computer science ,Fourth Year,Single,Second Class Lower,Not at all,Frequently,Frequently,Frequently,Sometimes,Rarely,7-8 hours,0,Less than 5 hours,0
+18,Female,Computer science ,Fourth Year,Single,First Class,Frequently,Occasionally,Frequently,Occasionally,Sometimes,Never,3-4 hours,0,5-6 hours,1-2 hours
+20,Male,Computer science ,Third Year,Single,Third Class,Frequently,Occasionally,Occasionally,Occasionally,Sometimes,Occasionally,7-8 hours,0,5-6 hours,1-2 hours
+21,Male,Health science ,Third Year,Single,Third Class,Not at all,Not at all,Not at all,Occasionally,Sometimes,Never,3-4 hours,0,7-8 hours,1-2 hours
+17,Male,Banking and Finance ,Second Year,Single,Second Class Lower,Occasionally,Occasionally,Occasionally,Frequently,Sometimes,Occasionally,3-4 hours,0,7-8 hours,3-4 hours
+16,Female,Law,First Year,Single,Second Class Lower,Almost constantly,Frequently,Almost constantly,Not at all,Sometimes,Occasionally,7-8 hours,0,5-6 hours,0
+19,Female,Criminology ,Third Year,Single,2.40 to 3.49,Not at all,Occasionally,Occasionally,Occasionally,Always,Rarely,10 or more,0,Less than 5 hours,0
+20,Male,Computer science ,Fourth Year,Single,First Class,Frequently,Not at all,Frequently,Frequently,Sometimes,Occasionally,3-4 hours,0,5-6 hours,1-2 hours
+22,Female,Computer Engineering ,Fifth Year,Single,First Class,Occasionally,Not at all,Frequently,Occasionally,Sometimes,Never,5-6 hours,0,5-6 hours,1-2 hours
+22,Male,Engineering ,Fifth Year,Single,Second Class Lower,Not at all,Occasionally,Frequently,Not at all,Sometimes,Rarely,3-4 hours,0,7-8 hours,0
+19,Female,Human nutrition and dietetics ,Second Year,Single,Second Class Upper,Occasionally,Occasionally,Occasionally,Occasionally,Always,Occasionally,5-6 hours,0,Less than 5 hours,1-2 hours
+21,Male,Mechanical engineering ,Fifth Year,Single,Second Class Lower,Frequently,Not at all,Occasionally,Frequently,Sometimes,Never,10 or more,1 to 2,7-8 hours,0
+20,Male,Electrical and electronics engineering ,Fifth Year,Single,First Class,Frequently,Frequently,Frequently,Almost constantly,Sometimes,Frequently,3-4 hours,0,7-8 hours,5-6 hours
+20,Male,Electrical and electronics engineering ,Fifth Year,Single,Second Class Upper,Occasionally,Occasionally,Occasionally,Occasionally,Sometimes,Occasionally,5-6 hours,0,5-6 hours,1-2 hours
+20,Male,Electrical and electronics engineering ,Fifth Year,Single,Second Class Upper,Occasionally,Occasionally,Frequently,Occasionally,Sometimes,Never,5-6 hours,0,7-8 hours,0
+20,Male,EEE,Fifth Year,Single,First Class,Occasionally,Not at all,Frequently,Occasionally,Sometimes,Never,3-4 hours,0,5-6 hours,1-2 hours
+21,Female,Electrical and Electronics Engineering ,Fifth Year,Single,Second Class Upper,Frequently,Occasionally,Frequently,Occasionally,Sometimes,Occasionally,5-6 hours,0,5-6 hours,1-2 hours
+20,Male,Medicine,Third Year,Single,First Class,Occasionally,Not at all,Frequently,Occasionally,Never,Never,7-8 hours,0,Less than 5 hours,5-6 hours
+34,Male,Artificial Intelligence ,Post Graduate,Married,First Class,Not at all,Not at all,Occasionally,Occasionally,Sometimes,Rarely,5-6 hours,0,Less than 5 hours,7 and above
+28,Female,Library and Information Science ,Post Graduate,Single,Second Class Upper,Occasionally,Occasionally,Occasionally,Not at all,Sometimes,Never,0-2 hours,0,7-8 hours,3-4 hours
+20,Male,EER,Fifth Year,Single,Second Class Upper,Frequently,Frequently,Frequently,Frequently,Sometimes,Never,3-4 hours,0,5-6 hours,1-2 hours
+43,Male,Statistics ,Post Graduate,Married,Second Class Lower,Occasionally,Almost constantly,Occasionally,Occasionally,Sometimes,Occasionally,5-6 hours,0,9 or more hours,5-6 hours
+17,Female,Material sci engineering ,Second Year,Single,Second Class Lower,Almost constantly,Not at all,Occasionally,Frequently,Always,Frequently,7-8 hours,0,Less than 5 hours,1-2 hours
+20,Female,Computer engineering ,Fifth Year,Single,First Class,Not at all,Not at all,Occasionally,Occasionally,Sometimes,Rarely,5-6 hours,0,5-6 hours,5-6 hours
+20,Male,Pharmacy ,Second Year,Single,Second Class Upper,Occasionally,Occasionally,Frequently,Frequently,Sometimes,Occasionally,7-8 hours,0,Less than 5 hours,1-2 hours
+25,Male,Engineering ,Post Graduate,Single,First Class,Not at all,Not at all,Not at all,Not at all,Never,Never,0-2 hours,0,9 or more hours,3-4 hours
+23,Male,Psychology,Post Graduate,Married,First Class,Occasionally,Occasionally,Occasionally,Not at all,Sometimes,Rarely,5-6 hours,0,7-8 hours,3-4 hours
+19,Male,Psychology,Second Year,Single,Second Class Lower,Occasionally,Occasionally,Frequently,Occasionally,Never,Never,0-2 hours,0,7-8 hours,1-2 hours
+21,Male,Mechanical Engineering,Post Graduate,Single,Second Class Upper,Occasionally,Almost constantly,Frequently,Occasionally,Sometimes,Never,5-6 hours,0,7-8 hours,1-2 hours
+20,Female,Film Studies,Third Year,Single,Second Class Upper,Occasionally,Almost constantly,Not at all,Occasionally,Never,Rarely,3-4 hours,1 to 2,7-8 hours,1-2 hours
+20,Male,Engineering ,Third Year,Single,First Class,Almost constantly,Frequently,Almost constantly,Almost constantly,Always,Occasionally,3-4 hours,0,Less than 5 hours,3-4 hours
+18,Male,Computer engineering??,Third Year,Single,Second Class Upper,Occasionally,Occasionally,Occasionally,Frequently,Sometimes,Rarely,3-4 hours,0,5-6 hours,1-2 hours
+18,Female,Information and communication engineering ,Third Year,Single,Second Class Upper,Occasionally,Almost constantly,Almost constantly,Frequently,Sometimes,Never,5-6 hours,0,7-8 hours,1-2 hours
+18,Male,Computer Engineering ,Third Year,Single,Second Class Upper,Occasionally,Occasionally,Occasionally,Occasionally,Sometimes,Rarely,3-4 hours,0,5-6 hours,1-2 hours
+21,Male,Computer Science ,Fourth Year,Single,Second Class Upper,Occasionally,Almost constantly,Frequently,Occasionally,Sometimes,Rarely,3-4 hours,0,Less than 5 hours,3-4 hours
+22,Female,Computer science ,Fourth Year,Single,Second Class Lower,Occasionally,Frequently,Frequently,Frequently,Sometimes,Occasionally,5-6 hours,1 to 2,Less than 5 hours,3-4 hours
+20,Male,Engineering ,First Year,Single,Second Class Lower,Frequently,Almost constantly,Frequently,Frequently,Sometimes,Never,5-6 hours,0,7-8 hours,1-2 hours
+26,Female,Teacher Training,Post Graduate,Single,Second Class Upper,Almost constantly,Frequently,Frequently,Frequently,Sometimes,Occasionally,3-4 hours,0,5-6 hours,3-4 hours
+19,Male,Literature ,Third Year,Single,First Class,Frequently,Frequently,Not at all,Occasionally,Always,Never,5-6 hours,0,7-8 hours,1-2 hours
+19,Male,IT,First Year,Single,Second Class Upper,Occasionally,Occasionally,Almost constantly,Almost constantly,Sometimes,Frequently,7-8 hours,0,Less than 5 hours,0
+25,Female,Education,Post Graduate,Single,Second Class Upper,Occasionally,Occasionally,Frequently,Frequently,Sometimes,Rarely,0-2 hours,0,5-6 hours,1-2 hours
+20,Female,Kink,Post Graduate,Widowed,Second Class Upper,Not at all,Almost constantly,Not at all,Frequently,Sometimes,Rarely,7-8 hours,5 to 6,5-6 hours,1-2 hours
+18,Male,psychology,First Year,Single,First Class,Frequently,Frequently,Frequently,Frequently,Sometimes,Frequently,5-6 hours,1 to 2,7-8 hours,5-6 hours
+28,Female,Psychology ,Post Graduate,Single,First Class,Frequently,Frequently,Frequently,Frequently,Sometimes,Occasionally,0-2 hours,0,7-8 hours,1-2 hours
+20,Male,Accounting,Second Year,Single,Second Class Upper,Occasionally,Frequently,Frequently,Occasionally,Always,Never,3-4 hours,0,5-6 hours,7 and above
+24,Female,English Education ,Post Graduate,Single,Second Class Upper,Frequently,Occasionally,Frequently,Frequently,Sometimes,Frequently,0-2 hours,0,7-8 hours,0
+22,Male,Environmental Science,Third Year,Single,Pass,Almost constantly,Almost constantly,Almost constantly,Almost constantly,Always,Frequently,10 or more,7 or more,9 or more hours,7 and above
+25,Female,Management,Third Year,Single,First Class,Occasionally,Occasionally,Frequently,Frequently,Sometimes,Rarely,0-2 hours,0,7-8 hours,5-6 hours
+24,Female,Financial Management,Post Graduate,Single,First Class,Not at all,Not at all,Not at all,Not at all,Never,Never,3-4 hours,0,7-8 hours,3-4 hours
+19,Female,Psychology ,First Year,Single,Second Class Upper,Frequently,Frequently,Frequently,Occasionally,Sometimes,Never,7-8 hours,0,7-8 hours,1-2 hours
+22,Female,Accounting,Third Year,Single,Second Class Lower,Frequently,Occasionally,Frequently,Frequently,Sometimes,Frequently,3-4 hours,0,9 or more hours,3-4 hours
+21,Female,Psychology,Third Year,Single,First Class,Occasionally,Frequently,Frequently,Not at all,Sometimes,Never,5-6 hours,0,7-8 hours,1-2 hours
+25,Male,Computer Science ,Fourth Year,Single,Second Class Upper,Frequently,Almost constantly,Frequently,Almost constantly,Always,Frequently,5-6 hours,0,Less than 5 hours,1-2 hours
+25,Male,Computer science ,Fourth Year,Single,Second Class Upper,Occasionally,Occasionally,Occasionally,Occasionally,Sometimes,Never,5-6 hours,1 to 2,9 or more hours,1-2 hours
+18,Female,Law,Third Year,Single,First Class,Occasionally,Occasionally,Frequently,Frequently,Always,Occasionally,3-4 hours,0,5-6 hours,3-4 hours
+40,Female,Psychology ,Third Year,Married,Pass,Almost constantly,Almost constantly,Almost constantly,Almost constantly,Always,Occasionally,0-2 hours,0,Less than 5 hours,1-2 hours
+23,Female,Bachelor,Third Year,Single,Second Class Upper,Occasionally,Frequently,Frequently,Occasionally,Sometimes,Occasionally,5-6 hours,5 to 6,7-8 hours,3-4 hours
+18,Male,Computer science ,Second Year,Single,First Class,Occasionally,Occasionally,Frequently,Frequently,Sometimes,Occasionally,5-6 hours,1 to 2,5-6 hours,3-4 hours
+22,Male,Accounting ,Third Year,Single,Second Class Upper,Not at all,Frequently,Not at all,Occasionally,Sometimes,Rarely,5-6 hours,1 to 2,Less than 5 hours,3-4 hours
+23,Female,Sociology ,Second Year,Single,Second Class Upper,Occasionally,Frequently,Almost constantly,Occasionally,Sometimes,Rarely,7-8 hours,0,7-8 hours,3-4 hours
+22,Male,Sociology ,Third Year,Single,Second Class Lower,Occasionally,Almost constantly,Frequently,Frequently,Sometimes,Frequently,3-4 hours,0,Less than 5 hours,5-6 hours
+17,Male,Computer science,Second Year,Single,First Class,Not at all,Occasionally,Not at all,Occasionally,Sometimes,Never,3-4 hours,0,5-6 hours,0
+22,Female,Sociology ,Post Graduate,Single,Second Class Upper,Frequently,Frequently,Frequently,Occasionally,Sometimes,Rarely,5-6 hours,0,Less than 5 hours,1-2 hours
+26,Female,Sociology ,Third Year,Single,Second Class Upper,Occasionally,Frequently,Occasionally,Frequently,Sometimes,Rarely,5-6 hours,0,5-6 hours,1-2 hours
+24,Male,Sociology ,Fourth Year,Single,Second Class Upper,Occasionally,Occasionally,Occasionally,Occasionally,Sometimes,Rarely,5-6 hours,0,7-8 hours,1-2 hours
+24,Female,Sociology ,Fourth Year,Single,Third Class,Occasionally,Almost constantly,Occasionally,Frequently,Always,Rarely,3-4 hours,0,7-8 hours,1-2 hours
+28,Female,Sociology ,Fourth Year,Single,Second Class Lower,Occasionally,Occasionally,Occasionally,Frequently,Sometimes,Occasionally,5-6 hours,0,5-6 hours,0
+20,Female,Nutrition and dietetics ,Second Year,Single,Second Class Lower,Occasionally,Frequently,Frequently,Occasionally,Always,Rarely,7-8 hours,1 to 2,Less than 5 hours,1-2 hours
+18,Female,Medicine,First Year,Single,First Class,Occasionally,Occasionally,Occasionally,Occasionally,Sometimes,Occasionally,5-6 hours,0,5-6 hours,7 and above
+20,Male,Computer science ,Second Year,Single,Second Class Upper,Not at all,Almost constantly,Not at all,Not at all,Sometimes,Rarely,10 or more,0,Less than 5 hours,7 and above
+29,Female,ux/ui design,Post Graduate,Married,First Class,Occasionally,Occasionally,Occasionally,Frequently,Sometimes,Rarely,0-2 hours,5 to 6,5-6 hours,3-4 hours
+23,Female,business,Fourth Year,Single,Second Class Upper,Occasionally,Frequently,Frequently,Occasionally,Sometimes,Frequently,5-6 hours,0,9 or more hours,3-4 hours
+18,Male,Computer Science ,Third Year,Single,First Class,Frequently,Occasionally,Not at all,Occasionally,Never,Occasionally,10 or more,1 to 2,5-6 hours,5-6 hours
+20,Female,Law,Post Graduate,Single,Second Class Lower,Occasionally,Frequently,Frequently,Almost constantly,Never,Never,10 or more,0,9 or more hours,0
+27,Male,Computer science ,Third Year,Single,First Class,Occasionally,Not at all,Not at all,Almost constantly,Never,Occasionally,5-6 hours,0,Less than 5 hours,5-6 hours
+17,Female,Biology ,Fourth Year,Single,First Class,Frequently,Frequently,Frequently,Almost constantly,Sometimes,Occasionally,3-4 hours,1 to 2,7-8 hours,1-2 hours
+17,Female,Computer Science ,First Year,Single,Second Class Upper,Occasionally,Almost constantly,Frequently,Frequently,Never,Frequently,7-8 hours,0,7-8 hours,3-4 hours
+23,Female,Computer science ,Fourth Year,Single,Second Class Upper,Almost constantly,Occasionally,Not at all,Frequently,Always,Never,10 or more,0,5-6 hours,0
+26,Female,Law,Fifth Year,Single,Second Class Upper,Frequently,Not at all,Frequently,Frequently,Always,Rarely,5-6 hours,0,5-6 hours,1-2 hours
+19,Male,Sociology ,Third Year,Single,Second Class Lower,Frequently,Occasionally,Frequently,Occasionally,Sometimes,Rarely,0-2 hours,0,9 or more hours,0
+27,Male,Law,Fourth Year,Single,First Class,Almost constantly,Almost constantly,Not at all,Not at all,Sometimes,Occasionally,0-2 hours,0,5-6 hours,3-4 hours
+26,Male,Computer Science ,Post Graduate,Married,Second Class Upper,Not at all,Frequently,Occasionally,Not at all,Sometimes,Never,10 or more,0,9 or more hours,1-2 hours
+17,Female,Management,Fourth Year,Single,Second Class Lower,Frequently,Occasionally,Occasionally,Frequently,Sometimes,Never,3-4 hours,1 to 2,9 or more hours,1-2 hours
+21,Female,Computer science ,First Year,Single,First Class,Frequently,Not at all,Almost constantly,Not at all,Sometimes,Never,5-6 hours,0,9 or more hours,3-4 hours
+27,Male,Business,Fourth Year,Single,First Class,Not at all,Frequently,Not at all,Not at all,Always,Never,5-6 hours,0,Less than 5 hours,3-4 hours
+26,Female,Computer Science ,Fifth Year,Single,Third Class,Not at all,Almost constantly,Occasionally,Frequently,Sometimes,Frequently,10 or more,1 to 2,Less than 5 hours,5-6 hours
+17,Female,Law,First Year,Single,First Class,Almost constantly,Occasionally,Not at all,Almost constantly,Always,Occasionally,3-4 hours,1 to 2,5-6 hours,5-6 hours
+17,Male,Computer science ,Third Year,Single,Second Class Upper,Not at all,Not at all,Almost constantly,Frequently,Sometimes,Frequently,0-2 hours,0,5-6 hours,0
+20,Female,Computer science ,Second Year,Single,Second Class Lower,Not at all,Not at all,Not at all,Frequently,Sometimes,Never,5-6 hours,0,Less than 5 hours,5-6 hours
+17,Female,Sociology ,Post Graduate,Single,First Class,Not at all,Occasionally,Occasionally,Occasionally,Sometimes,Frequently,10 or more,1 to 2,5-6 hours,1-2 hours
+26,Female,Economics ,Post Graduate,Married,First Class,Occasionally,Almost constantly,Not at all,Not at all,Sometimes,Frequently,3-4 hours,0,7-8 hours,1-2 hours
+17,Male,Computer Science ,Second Year,Married,First Class,Not at all,Frequently,Occasionally,Frequently,Always,Rarely,10 or more,0,Less than 5 hours,5-6 hours
+17,Female,Sociology ,Third Year,Single,Second Class Lower,Almost constantly,Occasionally,Frequently,Almost constantly,Sometimes,Rarely,10 or more,0,9 or more hours,3-4 hours
+24,Male,Sociology ,Third Year,Single,Second Class Upper,Occasionally,Almost constantly,Almost constantly,Frequently,Always,Never,5-6 hours,1 to 2,9 or more hours,3-4 hours
+26,Male,Computer science ,Third Year,Single,First Class,Almost constantly,Occasionally,Occasionally,Almost constantly,Sometimes,Occasionally,5-6 hours,0,Less than 5 hours,1-2 hours
+27,Male,Sociology ,Post Graduate,Single,Second Class Upper,Frequently,Frequently,Occasionally,Frequently,Always,Never,5-6 hours,3 to 4,Less than 5 hours,3-4 hours
+26,Female,Sociology ,Third Year,Married,Second Class Upper,Almost constantly,Almost constantly,Frequently,Occasionally,Never,Frequently,5-6 hours,0,9 or more hours,1-2 hours
+26,Male,Sociology ,Post Graduate,Single,Third Class,Not at all,Not at all,Frequently,Frequently,Always,Never,5-6 hours,0,Less than 5 hours,1-2 hours
+24,Male,Computer Science ,Fifth Year,Single,Second Class Upper,Frequently,Almost constantly,Almost constantly,Almost constantly,Never,Never,5-6 hours,0,5-6 hours,0
+26,Male,Law,Third Year,Single,Third Class,Almost constantly,Frequently,Not at all,Not at all,Always,Rarely,5-6 hours,0,5-6 hours,5-6 hours
+25,Male,Law,Fifth Year,Single,Second Class Upper,Frequently,Not at all,Not at all,Almost constantly,Never,Never,10 or more,1 to 2,7-8 hours,1-2 hours
+20,Female,Computer science ,Second Year,Single,First Class,Not at all,Occasionally,Not at all,Almost constantly,Sometimes,Frequently,10 or more,1 to 2,7-8 hours,3-4 hours
+19,Male,Sociology ,Fifth Year,Single,Second Class Lower,Frequently,Almost constantly,Frequently,Frequently,Sometimes,Frequently,3-4 hours,0,5-6 hours,3-4 hours
+20,Female,Architecture ,First Year,Single,Pass,Occasionally,Occasionally,Occasionally,Occasionally,Sometimes,Never,7-8 hours,0,5-6 hours,1-2 hours
+21,Female,Accounting,Fifth Year,Single,First Class,Occasionally,Almost constantly,Occasionally,Occasionally,Sometimes,Rarely,3-4 hours,0,5-6 hours,0
+25,Male,film studies,Fifth Year,Single,Second Class Upper,Occasionally,Frequently,Frequently,Occasionally,Sometimes,Frequently,7-8 hours,5 to 6,Less than 5 hours,1-2 hours
+24,Male,International relations and diplomacy ,First Year,Single,Second Class Lower,Occasionally,Not at all?,Frequently,Occasionally,Sometimes,Never,7-8 hours,0,5-6 hours,3-4 hours
+25,Female,Computer science ,Fifth Year,Single,Second Class Lower,Occasionally,Frequently,Occasionally,Occasionally,Sometimes,Occasionally,0-2 hours,,7-8 hours,3-4 hours
+25,Male,Computer Science ,Fifth Year,Single,First Class,Occasionally,Frequently,,Frequently,Sometimes,Rarely,0-2 hours,0,5-6 hours,3-4 hours
+20,Male,Criminology ,Fourth Year,Single,Second Class Lower,Occasionally,Frequently,Occasionally,Occasionally,Sometimes,Frequently,5-6 hours,0,Less than 5 hours,
+25,Female,Medicine and Surgery ,Fourth Year,Single,Second Class Lower,Occasionally,Frequently,Occasionally,Occasionally,,Frequently,3-4 hours,0,,3-4 hours
+24,Male,Biology ,Post Graduate,Single,Pass,Occasionally,Not at all?,Occasionally,Occasionally,Sometimes,Frequently,10 or more,0,5-6 hours,1-2 hours
+34,Male,BSc Computer Science ,Fourth Year,Single,Second Class Lower,Occasionally,Occasionally,Occasionally,Occasionally,Sometimes,Occasionally,3-4 hours,5 to 6,7-8 hours,3-4 hours
+22,Male,Q,Third Year,Single,Second Class Upper,Occasionally,Frequently,Occasionally,Occasionally,Sometimes,Frequently,,0,5-6 hours,0
+43,Male,Engineering ,Post Graduate,Single,Second Class Upper,Not at all,Frequently,Frequently,Occasionally,Sometimes,Rarely,3-4 hours,,5-6 hours,7 and above
+54,Male,Law,Third Year,Single,Second Class Upper,Occasionally,Occasionally,,Occasionally,Sometimes,Never,0-2 hours,7 or more,7-8 hours,3-4 hours
+19,Female,Law,First Year,Single,Second Class Lower,Occasionally,Occasionally,Frequently,Occasionally,Sometimes,Occasionally,3-4 hours,0,5-6 hours,1-2 hours
+24,Male,Kink,Post Graduate,Single,Second Class Lower,Occasionally,Frequently,Occasionally,Occasionally,Sometimes,Never,7-8 hours,,Less than 5 hours,3-4 hours
+16,Female,Management,Fourth Year,Single,First Class,Occasionally,Occasionally,Almost constantly,Frequently,Sometimes,Never,5-6 hours,0,5-6 hours,1-2 hours
+18,Female,business,Third Year,Single,First Class,Occasionally,Frequently,Occasionally,Occasionally,Always,Occasionally,0-2 hours,0,5-6 hours,0
+21,Female,Medical laboratory science,First Year,Single,Second Class Upper,Occasionally,Not at all?,Occasionally,Frequently,Sometimes,Rarely,3-4 hours,0,5-6 hours,3-4 hours
+20,Male,Computer Engineering ,Fourth Year,Single,Second Class Upper,Occasionally,Frequently,Occasionally,Occasionally,Sometimes,Never,3-4 hours,0,5-6 hours,1-2 hours
+18,Female,Engineering ,Second Year,Single,Pass,Almost constantly,Frequently,Occasionally,Frequently,Sometimes,Frequently,3-4 hours,0,Less than 5 hours,0
+17,Female,Computer Science ,Third Year,Single,Second Class Lower,Not at all,Occasionally,Occasionally,Occasionally,Sometimes,Never,7-8 hours,0,5-6 hours,3-4 hours
+25,Female,Law,Fourth Year,Single,Second Class Upper,Occasionally,Not at all?,Almost constantly,Frequently,Sometimes,Never,0-2 hours,,7-8 hours,1-2 hours
+20,Male,I-O Psychology,Fifth Year,Single,First Class,Frequently,Frequently,Occasionally,Frequently,Sometimes,Rarely,5-6 hours,0,5-6 hours,1-2 hours
+21,Male,Electrical and electronics engineering ,Fourth Year,Single,Second Class Lower,Occasionally,Frequently,Occasionally,Not at all,Sometimes,Frequently,3-4 hours,0,5-6 hours,3-4 hours
+40,Female,Statistics ,Fifth Year,Single,Second Class Lower,Occasionally,Occasionally,Occasionally,Occasionally,Never,Rarely,5-6 hours,0,5-6 hours,1-2 hours
+23,Female,Fine Arts and Design ,First Year,Single,Second Class Upper,Occasionally,Occasionally,Occasionally,Not at all,Sometimes,Rarely,7-8 hours,7 or more,7-8 hours,3-4 hours
+20,Female,Law,Second Year,Single,Second Class Lower,Frequently,Frequently,Occasionally,Occasionally,Sometimes,Never,5-6 hours,0,5-6 hours,3-4 hours
+20,Male,Law,Fourth Year,Single,Second Class Upper,Occasionally,Frequently,Not at all,Occasionally,Sometimes,Occasionally,5-6 hours,0,5-6 hours,3-4 hours
+16,Male,Computer Science ,First Year,Single,First Class,Occasionally,Frequently,Occasionally,Occasionally,Sometimes,Rarely,3-4 hours,0,,3-4 hours
+21,Female,Accounting ,Post Graduate,Single,Third Class,Occasionally,Frequently,Occasionally,Almost constantly,Always,Rarely,0-2 hours,0,Less than 5 hours,
+23,Male,Chatered accountant,Fourth Year,Single,First Class,Occasionally,Frequently,Occasionally,Not at all,Sometimes,Rarely,5-6 hours,0,5-6 hours,1-2 hours
+20,Female,Nursing Science ,Fifth Year,Single,Second Class Upper,Occasionally,Frequently,Occasionally,Occasionally,Sometimes,Never,5-6 hours,0,5-6 hours,1-2 hours
+20,Female,Law,Second Year,Single,Second Class Lower,Occasionally,Occasionally,Almost constantly,Frequently,Sometimes,Rarely,3-4 hours,0,5-6 hours,0
+20,Female,Med,Fifth Year,Widowed,Second Class Upper,Occasionally,Occasionally,Occasionally,Almost constantly,Sometimes,Occasionally,3-4 hours,0,5-6 hours,7 and above
+20,Male,Computer Science,Post Graduate,Single,Second Class Upper,Occasionally,,Occasionally,,Sometimes,Never,7-8 hours,0,9 or more hours,1-2 hours
+19,Female,Graduated English Education ,Second Year,Single,Second Class Upper,Occasionally,Not at all?,Occasionally,Occasionally,Sometimes,Never,5-6 hours,0,7-8 hours,3-4 hours
+22,Female,Microbiology ,Post Graduate,Single,Second Class Upper,Occasionally,Not at all?,Almost constantly,Frequently,Sometimes,Occasionally,0-2 hours,0,5-6 hours,1-2 hours
+23,Male,Sociology ,Third Year,Single,Second Class Lower,Occasionally,Frequently,Almost constantly,Frequently,Sometimes,Rarely,5-6 hours,0,5-6 hours,1-2 hours
+20,Male,Law,Post Graduate,Single,First Class,Occasionally,Almost constantly,Occasionally,Frequently,Sometimes,Never,0-2 hours,0,Less than 5 hours,3-4 hours
+20,Male,Health science ,Third Year,Single,Second Class Upper,Occasionally,Occasionally,Occasionally,Occasionally,Sometimes,Occasionally,3-4 hours,0,5-6 hours,1-2 hours
+43,Female,Fine arts and design ,Post Graduate,Single,Third Class,Occasionally,Frequently,Occasionally,Frequently,Sometimes,Frequently,7-8 hours,0,Less than 5 hours,3-4 hours
+28,Male,EER,Third Year,Single,Second Class Upper,Occasionally,Frequently,Frequently,Occasionally,Sometimes,Rarely,5-6 hours,0,5-6 hours,1-2 hours
+25,Female,Computer science ,Post Graduate,Single,Second Class Lower,Occasionally,Occasionally,Frequently,Frequently,Sometimes,Never,0-2 hours,0,5-6 hours,3-4 hours
+22,Male,Artificial Intelligence ,Fifth Year,Single,Second Class Upper,Occasionally,Frequently,Frequently,Occasionally,Sometimes,Occasionally,5-6 hours,0,Less than 5 hours,0
+18,Male,Information and communication engineering ,First Year,Single,Second Class Lower,Occasionally,Occasionally,Occasionally,Occasionally,Always,Occasionally,5-6 hours,0,5-6 hours,1-2 hours
+20,Male,Computer science,Second Year,Single,First Class,Occasionally,Almost constantly,Occasionally,Occasionally,Always,Never,9-10 hours,0,5-6 hours,7 and above
+54,Female,Med,Fifth Year,Single,Second Class Lower,Occasionally,Frequently,Occasionally,Not at all,Sometimes,Never,3-4 hours,0,7-8 hours,1-2 hours
+19,Female,Science Education ,Second Year,Single,Second Class Upper,Occasionally,Occasionally,Occasionally,Almost constantly,Sometimes,Never,3-4 hours,0,5-6 hours,0
+25,Female,Electrical and Electronics Engineering ,Fifth Year,Single,Second Class Upper,Almost constantly,Not at all?,Not at all,Occasionally,Sometimes,Rarely,3-4 hours,0,5-6 hours,0
+28,Female,Computer science,Third Year,Single,Second Class Upper,Occasionally,Occasionally,,Frequently,Sometimes,Occasionally,5-6 hours,0,Less than 5 hours,1-2 hours
+20,Male,Criminology ,Third Year,Single,Second Class Lower,Occasionally,Frequently,Frequently,Occasionally,Sometimes,Never,0-2 hours,0,5-6 hours,7 and above
+18,Female,International relations and diplomacy ,First Year,Single,Second Class Lower,Occasionally,Not at all?,Occasionally,Almost constantly,Sometimes,Never,5-6 hours,0,5-6 hours,3-4 hours
+24,Male,Sociology ,Third Year,Single,Pass,Occasionally,Not at all?,Occasionally,Occasionally,Sometimes,Frequently,7-8 hours,0,5-6 hours,3-4 hours
+19,Female,Engineering ,First Year,Single,First Class,Occasionally,Occasionally,Occasionally,Occasionally,Sometimes,Occasionally,0-2 hours,0,7-8 hours,5-6 hours
+22,Female,Medical laboratory science ,Post Graduate,Single,Second Class Upper,Occasionally,Frequently,Occasionally,Occasionally,Sometimes,Never,3-4 hours,0,5-6 hours,3-4 hours
+18,Female,Architecture ,Third Year,Single,Second Class Lower,Frequently,Frequently,Occasionally,Almost constantly,Sometimes,Occasionally,7-8 hours,0,7-8 hours,1-2 hours
+19,Male,Nursing science ,Post Graduate,Single,Second Class Upper,Not at all,,Occasionally,,Sometimes,,3-4 hours,0,Less than 5 hours,0
+21,Female,Graduated English Education ,Fifth Year,Single,Third Class,Occasionally,Occasionally,Occasionally,Frequently,Sometimes,Never,5-6 hours,0,5-6 hours,3-4 hours
+21,Male,Computer sciences,Second Year,Single,Second Class Lower,Occasionally,Almost constantly,Occasionally,Frequently,Sometimes,Occasionally,3-4 hours,0,Less than 5 hours,1-2 hours
+28,Female,Computer Science,Third Year,Single,First Class,Frequently,Occasionally,Occasionally,Frequently,Sometimes,Never,3-4 hours,0,5-6 hours,3-4 hours
+18,Male,Graduated English Education ,First Year,Single,Third Class,Not at all,Not at all?,Occasionally,Frequently,Sometimes,Rarely,5-6 hours,0,5-6 hours,3-4 hours
+19,Male,Medicine,Third Year,Single,First Class,Occasionally,Occasionally,Frequently,Occasionally,Sometimes,Occasionally,5-6 hours,0,5-6 hours,3-4 hours
+20,Female,Chemistry ,Third Year,Single,Third Class,Occasionally,Not at all?,Occasionally,Occasionally,Never,Rarely,7-8 hours,0,5-6 hours,0
+25,Male,Electrical and Electronics Engineering ,Fourth Year,Single,Second Class Upper,Not at all,Frequently,Occasionally,Frequently,Sometimes,Never,3-4 hours,0,Less than 5 hours,3-4 hours
+18,Female,Sociology ,Fourth Year,Single,Second Class Lower,Occasionally,Almost constantly,Frequently,Occasionally,Sometimes,Never,5-6 hours,0,5-6 hours,3-4 hours
+19,Female,Nutrition and dietetics ,,Single,Pass,Not at all,Occasionally,Almost constantly,Frequently,Sometimes,Never,7-8 hours,0,5-6 hours,3-4 hours
+22,Female,Law,First Year,Single,Second Class Upper,Occasionally,Almost constantly,Frequently,Occasionally,Sometimes,Never,3-4 hours,0,5-6 hours,3-4 hours
+18,Female,EEE,Post Graduate,Single,Second Class Upper,Almost constantly,Frequently,Occasionally,Occasionally,Sometimes,Never,7-8 hours,0,5-6 hours,1-2 hours
+20,Female,Engineering ,Post Graduate,Single,First Class,Occasionally,Frequently,,Not at all,Sometimes,Occasionally,3-4 hours,0,Less than 5 hours,3-4 hours
+18,Male,Electrical and electronics engineering ,Post Graduate,Single,First Class,Occasionally,Almost constantly,Occasionally,Not at all,Sometimes,Never,5-6 hours,0,5-6 hours,3-4 hours
+40,Female,Env sci,Post Graduate,Single,First Class,Occasionally,Occasionally,Occasionally,Occasionally,Sometimes,Rarely,3-4 hours,0,7-8 hours,1-2 hours
+23,Male,Education,First Year,Single,First Class,Occasionally,Occasionally,Frequently,Occasionally,Sometimes,Occasionally,5-6 hours,0,5-6 hours,3-4 hours
+34,Female,Mechanical engineering ,Third Year,Single,First Class,Occasionally,Frequently,Almost constantly,Occasionally,Sometimes,Occasionally,0-2 hours,0,Less than 5 hours,7 and above
+18,Male,Biology ,Third Year,Single,Second Class Upper,Occasionally,Almost constantly,Frequently,Occasionally,Always,Frequently,5-6 hours,0,5-6 hours,3-4 hours
+19,Male,Medicine and Surgery ,Fifth Year,Single,Second Class Upper,Occasionally,Frequently,Occasionally,Frequently,Sometimes,Occasionally,0-2 hours,0,5-6 hours,0
+25,Male,Computer Science ,Third Year,Single,First Class,Occasionally,Almost constantly,Not at all,Occasionally,Sometimes,Never,7-8 hours,,5-6 hours,1-2 hours
+24,Female,BSc Computer Science ,Third Year,Single,First Class,Occasionally,Frequently,Occasionally,Occasionally,Sometimes,Never,5-6 hours,0,5-6 hours,1-2 hours
+24,Female,Nursing Science ,Fourth Year,Single,Second Class Lower,Occasionally,Frequently,Occasionally,Occasionally,Sometimes,Rarely,5-6 hours,0,5-6 hours,3-4 hours
+25,Female,Computer science ,Third Year,Single,Second Class Lower,Almost constantly,Frequently,Occasionally,Occasionally,Sometimes,Frequently,3-4 hours,0,5-6 hours,3-4 hours
+25,Female,Env sci,Fifth Year,Single,Second Class Upper,Occasionally,,Occasionally,Occasionally,Sometimes,Never,5-6 hours,0,5-6 hours,3-4 hours
+40,Female,Chatered accountant,Second Year,Single,Second Class Upper,Frequently,Almost constantly,Occasionally,Occasionally,Sometimes,Never,0-2 hours,0,Less than 5 hours,
+17,Male,Computer Science,First Year,Single,Second Class Lower,Almost constantly,Frequently,,Almost constantly,Sometimes,Never,3-4 hours,,7-8 hours,3-4 hours
+18,Female,Sociology ,Post Graduate,Single,Third Class,Occasionally,Frequently,Frequently,Occasionally,Sometimes,Rarely,5-6 hours,0,5-6 hours,3-4 hours
+20,Female,Statistics ,Third Year,Single,Second Class Upper,Occasionally,Occasionally,Occasionally,Occasionally,Sometimes,Never,5-6 hours,0,7-8 hours,3-4 hours
+24,Female,Electrical and electronics engineering ,Second Year,Single,First Class,Frequently,Almost constantly,Occasionally,Frequently,Sometimes,Never,3-4 hours,0,Less than 5 hours,5-6 hours
+43,Female,Chatered accountant,Third Year,Single,Second Class Lower,Occasionally,Frequently,Occasionally,Occasionally,Sometimes,Never,3-4 hours,0,5-6 hours,1-2 hours
+18,Female,Psychology,Third Year,Single,Second Class Upper,Occasionally,Frequently,Occasionally,Frequently,Sometimes,Occasionally,5-6 hours,0,5-6 hours,1-2 hours
+16,Female,Computer science ,First Year,Single,Second Class Lower,Not at all,Not at all?,Almost constantly,Occasionally,Sometimes,Frequently,0-2 hours,0,Less than 5 hours,3-4 hours
+20,Female,Computer science ,Third Year,Single,Second Class Upper,Occasionally,Almost constantly,Frequently,Frequently,Always,Occasionally,3-4 hours,,5-6 hours,1-2 hours
+20,Female,Engineering ,Fourth Year,Single,First Class,Occasionally,Occasionally,Occasionally,Occasionally,Sometimes,Never,3-4 hours,0,5-6 hours,1-2 hours
+22,Male,Artificial Intelligence ,Post Graduate,Single,First Class,Occasionally,Frequently,Frequently,,Sometimes,Occasionally,5-6 hours,0,7-8 hours,1-2 hours
+16,Male,Engineering ,Third Year,Single,Second Class Lower,Occasionally,Frequently,Occasionally,Occasionally,Sometimes,Never,7-8 hours,0,Less than 5 hours,3-4 hours
+25,Female,Law,Third Year,Single,Third Class,Occasionally,Not at all?,Occasionally,Occasionally,Sometimes,Never,3-4 hours,0,9 or more hours,0
+22,Female,Law,Third Year,Single,First Class,Occasionally,Occasionally,Occasionally,Occasionally,Sometimes,Rarely,7-8 hours,0,5-6 hours,3-4 hours
+21,Male,Construction mgt,Third Year,Single,Second Class Upper,Occasionally,Frequently,,Not at all,Always,Never,3-4 hours,0,5-6 hours,0
+22,Male,Accounting ,Third Year,Single,Second Class Lower,Frequently,Occasionally,Occasionally,Occasionally,,Occasionally,7-8 hours,0,5-6 hours,0
+17,Male,Statistics ,Second Year,Single,First Class,Almost constantly,Frequently,Frequently,Occasionally,Sometimes,Rarely,3-4 hours,3 to 4,Less than 5 hours,3-4 hours
+18,Female,Computer Science ,Second Year,Single,First Class,Occasionally,Not at all?,Almost constantly,Occasionally,Sometimes,Never,0-2 hours,0,Less than 5 hours,3-4 hours
+22,Male,ux/ui design,Post Graduate,Single,Second Class Upper,Occasionally,Not at all?,Frequently,Occasionally,Sometimes,Never,5-6 hours,0,Less than 5 hours,0
+20,Male,Economics ,Fourth Year,Single,Second Class Upper,Occasionally,Almost constantly,Frequently,Occasionally,,Never,3-4 hours,0,5-6 hours,3-4 hours
+25,Male,Electrical and electronics engineering ,Third Year,Single,Second Class Upper,Almost constantly,Frequently,Occasionally,Occasionally,Sometimes,Never,0-2 hours,0,7-8 hours,0
+22,Male,Computer Engineering ,Third Year,Single,First Class,Occasionally,Not at all?,Almost constantly,Occasionally,Sometimes,Never,3-4 hours,0,5-6 hours,3-4 hours
+20,Female,Bachelor,First Year,Single,Second Class Lower,Occasionally,Almost constantly,Almost constantly,Almost constantly,Sometimes,Never,7-8 hours,0,5-6 hours,1-2 hours
+28,Female,Microbiology ,Second Year,Single,Second Class Upper,Not at all,Frequently,Not at all,Occasionally,Sometimes,Frequently,5-6 hours,0,7-8 hours,1-2 hours
+20,Female,Accounting ,Fourth Year,Single,Second Class Upper,Occasionally,Occasionally,Occasionally,Occasionally,Sometimes,Occasionally,5-6 hours,0,5-6 hours,3-4 hours
+22,Male,Computer Science ,Second Year,Single,First Class,Occasionally,Frequently,Frequently,Frequently,Never,Occasionally,3-4 hours,0,5-6 hours,1-2 hours
+18,Male,Chatered accountant,Fourth Year,Single,Second Class Upper,Occasionally,Frequently,Occasionally,Occasionally,Sometimes,Rarely,0-2 hours,0,5-6 hours,7 and above
+20,Male,Nursing science ,Post Graduate,Single,Second Class Upper,Occasionally,,Occasionally,Occasionally,Sometimes,Occasionally,,0,5-6 hours,3-4 hours
+27,Male,Psychology ,Post Graduate,Single,Second Class Upper,Occasionally,Frequently,Frequently,Occasionally,Sometimes,Frequently,3-4 hours,0,7-8 hours,1-2 hours
+25,Male,Teacher Training,Third Year,Single,First Class,Frequently,Not at all?,Occasionally,Occasionally,Sometimes,Never,3-4 hours,1 to 2,Less than 5 hours,
+21,Female,Teacher Training,Post Graduate,Single,First Class,Occasionally,Almost constantly,Occasionally,Occasionally,Sometimes,Never,3-4 hours,0,7-8 hours,1-2 hours
+25,Female,Computer science ,Third Year,Single,Second Class Upper,Occasionally,Frequently,Occasionally,Occasionally,Sometimes,,3-4 hours,0,5-6 hours,3-4 hours
+22,Female,Computer science ,First Year,Single,Second Class Upper,Occasionally,Frequently,Occasionally,Frequently,Sometimes,Rarely,9-10 hours,1 to 2,5-6 hours,3-4 hours
+25,Male,business,Second Year,Single,Second Class Lower,Occasionally,Frequently,Occasionally,Not at all,Sometimes,Frequently,0-2 hours,0,5-6 hours,3-4 hours
+20,Male,Electrical and Electronics Engineering ,Second Year,Single,Second Class Lower,,Occasionally,Occasionally,Occasionally,Sometimes,Never,5-6 hours,0,7-8 hours,1-2 hours
+24,Female,Health science ,Post Graduate,Single,Second Class Upper,Occasionally,Not at all?,Frequently,,Always,Frequently,7-8 hours,0,7-8 hours,3-4 hours
+54,Female,Computer Science ,Post Graduate,Single,Second Class Upper,,,Occasionally,Frequently,Sometimes,Rarely,5-6 hours,1 to 2,7-8 hours,3-4 hours
+21,Female,EER,Post Graduate,Single,First Class,Occasionally,Almost constantly,Frequently,Occasionally,Sometimes,Frequently,3-4 hours,0,Less than 5 hours,7 and above
+25,Male,MATHEMATICS AND COMPUTER SCIENCE,Fourth Year,Single,Second Class Lower,Occasionally,Not at all?,Occasionally,Occasionally,Sometimes,Never,0-2 hours,0,7-8 hours,1-2 hours
+20,Male,Fine arts and design ,Third Year,Single,Second Class Lower,Occasionally,Frequently,Frequently,Occasionally,Sometimes,Rarely,0-2 hours,0,5-6 hours,3-4 hours
+22,Female,psychology,First Year,Single,First Class,Occasionally,Frequently,Occasionally,Frequently,Sometimes,Never,3-4 hours,0,Less than 5 hours,0
+23,Female,Computer Science ,Fifth Year,Single,Second Class Upper,Occasionally,Occasionally,Frequently,Occasionally,Sometimes,Occasionally,7-8 hours,0,7-8 hours,5-6 hours
+25,Female,Computer engineering??,Third Year,Single,Second Class Upper,Occasionally,Not at all?,Occasionally,Occasionally,Sometimes,Never,3-4 hours,0,5-6 hours,1-2 hours
+23,Female,Electrical and electronics engineering ,Third Year,Married,Second Class Upper,Almost constantly,Almost constantly,,Occasionally,Sometimes,,10 or more,,7-8 hours,1-2 hours
+19,Male,Architecture ,Post Graduate,Single,Second Class Upper,Occasionally,Frequently,Almost constantly,Frequently,Sometimes,Occasionally,7-8 hours,0,7-8 hours,0
+25,Male,Criminology ,First Year,Single,Second Class Lower,Occasionally,Frequently,Frequently,Occasionally,Sometimes,Never,3-4 hours,0,5-6 hours,3-4 hours
+23,Female,Health science ,Third Year,Single,Second Class Upper,Occasionally,,Almost constantly,Almost constantly,Never,Occasionally,,1 to 2,5-6 hours,7 and above
+22,Male,Mechanical Engineering,Post Graduate,Single,First Class,Occasionally,,Frequently,Occasionally,Sometimes,Occasionally,3-4 hours,0,7-8 hours,1-2 hours
+20,Male,Accounting ,Second Year,Single,First Class,Occasionally,Occasionally,Almost constantly,Occasionally,Sometimes,Occasionally,7-8 hours,0,5-6 hours,1-2 hours
+25,Female,Construction mgt,Fourth Year,Single,Second Class Upper,Occasionally,Occasionally,Occasionally,Occasionally,Sometimes,Never,7-8 hours,0,Less than 5 hours,1-2 hours
+28,Female,Medicine,Second Year,Married,Second Class Upper,Occasionally,Occasionally,Almost constantly,Frequently,Sometimes,Never,3-4 hours,0,Less than 5 hours,0
+19,Female,Economics ,Fourth Year,Single,Second Class Upper,Occasionally,Occasionally,Frequently,Occasionally,Sometimes,Frequently,3-4 hours,5 to 6,5-6 hours,0
+17,Male,Computer Science ,Post Graduate,Single,Second Class Lower,Occasionally,Occasionally,Occasionally,Occasionally,Sometimes,Occasionally,3-4 hours,0,5-6 hours,5-6 hours
+17,Male,Computer Science ,Post Graduate,Single,Second Class Lower,Occasionally,Occasionally,Occasionally,Occasionally,Sometimes,Occasionally,3-4 hours,0,5-6 hours,5-6 hours
+24,Female,Computer science ,Third Year,Single,Second Class Lower,Occasionally,Almost constantly,Frequently,Occasionally,Sometimes,Never,5-6 hours,0,5-6 hours,3-4 hours
+23,Male,EEE,Fourth Year,Single,Second Class Lower,Frequently,Not at all?,Occasionally,Occasionally,Sometimes,Never,7-8 hours,0,5-6 hours,0
+22,Female,Science Education ,Third Year,Single,First Class,Occasionally,Almost constantly,Occasionally,Almost constantly,Sometimes,Occasionally,0-2 hours,1 to 2,7-8 hours,0
+25,Male,Engineering ,Fourth Year,Single,First Class,Occasionally,Occasionally,Occasionally,Occasionally,Sometimes,Occasionally,7-8 hours,0,5-6 hours,1-2 hours
+28,Female,Computer science,Third Year,Single,First Class,Occasionally,Almost constantly,Occasionally,Almost constantly,Sometimes,Frequently,3-4 hours,7 or more,7-8 hours,1-2 hours
+29,Male,Chemistry ,Fourth Year,Single,First Class,Frequently,Frequently,Almost constantly,Occasionally,Sometimes,Rarely,5-6 hours,0,5-6 hours,1-2 hours
+23,Female,Sociology ,Fifth Year,Single,Second Class Upper,Occasionally,Frequently,Almost constantly,Frequently,Sometimes,Occasionally,5-6 hours,0,5-6 hours,1-2 hours
+18,Female,Health science ,Second Year,Single,Second Class Upper,Occasionally,Not at all?,Not at all,Occasionally,Sometimes,Occasionally,5-6 hours,0,5-6 hours,3-4 hours
+24,Male,Env sci,Third Year,Single,First Class,Occasionally,Almost constantly,Frequently,Occasionally,Sometimes,,5-6 hours,0,5-6 hours,5-6 hours
+23,Female,Computer science ,Fourth Year,Single,Second Class Upper,Frequently,Almost constantly,Almost constantly,Occasionally,Sometimes,,3-4 hours,0,5-6 hours,3-4 hours
+19,Female,Computer Science ,First Year,Single,Second Class Lower,Occasionally,Frequently,Occasionally,Occasionally,Sometimes,Frequently,5-6 hours,0,9 or more hours,1-2 hours
+23,Female,Sociology ,Fifth Year,Single,First Class,Occasionally,Occasionally,Frequently,Almost constantly,Sometimes,Occasionally,5-6 hours,5 to 6,7-8 hours,5-6 hours
+19,Female,Library and Information Science ,Second Year,Single,First Class,Almost constantly,Not at all?,Occasionally,Occasionally,Sometimes,Never,5-6 hours,0,5-6 hours,3-4 hours
+18,Male,Sociology ,Second Year,Married,Second Class Lower,Frequently,Almost constantly,Occasionally,Occasionally,,,3-4 hours,0,,1-2 hours
+19,Female,Psychology,Fourth Year,Single,Second Class Upper,Occasionally,Almost constantly,Occasionally,Occasionally,Sometimes,Frequently,5-6 hours,0,7-8 hours,1-2 hours
+28,Female,Computer science ,Fourth Year,Single,Second Class Upper,Occasionally,Occasionally,Occasionally,Occasionally,Sometimes,Never,7-8 hours,0,5-6 hours,3-4 hours
+28,Female,Information and communication engineering ,Third Year,Single,Second Class Upper,Occasionally,Frequently,Frequently,Almost constantly,Never,Occasionally,5-6 hours,0,5-6 hours,1-2 hours
+21,Female,Human nutrition and dietetics ,Second Year,Single,First Class,Occasionally,Occasionally,Almost constantly,Frequently,Sometimes,Rarely,,0,5-6 hours,3-4 hours
+24,Male,Computer Science ,Post Graduate,Single,Second Class Upper,Occasionally,Frequently,Occasionally,Occasionally,Sometimes,Rarely,5-6 hours,0,5-6 hours,1-2 hours
+22,Male,Computer science ,First Year,Single,First Class,Occasionally,Almost constantly,Almost constantly,Occasionally,Sometimes,Occasionally,3-4 hours,1 to 2,Less than 5 hours,5-6 hours
+24,Female,Material sci engineering ,Post Graduate,Single,Second Class Upper,Occasionally,Not at all?,Not at all,Occasionally,Sometimes,Never,7-8 hours,0,5-6 hours,0
+17,Male,Medical laboratory science,First Year,Single,Second Class Lower,Occasionally,Almost constantly,Occasionally,Frequently,Sometimes,Frequently,5-6 hours,0,5-6 hours,3-4 hours
+21,Female,Nursing ,First Year,Single,Second Class Upper,Occasionally,Not at all?,Occasionally,Occasionally,Always,Occasionally,3-4 hours,0,5-6 hours,0
+24,Female,Fine arts and design ,,Single,First Class,Occasionally,Frequently,Frequently,Frequently,Sometimes,Occasionally,5-6 hours,0,Less than 5 hours,0
+28,Male,Sociology ,First Year,Single,Second Class Upper,Frequently,Almost constantly,Frequently,Occasionally,Sometimes,Never,7-8 hours,3 to 4,5-6 hours,1-2 hours
+22,Male,Computer science ,First Year,Single,First Class,Almost constantly,Occasionally,Occasionally,Occasionally,Sometimes,Never,5-6 hours,0,5-6 hours,3-4 hours
+21,Female,Medical laboratory science ,Post Graduate,Single,First Class,Occasionally,Frequently,Almost constantly,Occasionally,Sometimes,Never,3-4 hours,0,7-8 hours,0
+20,Male,Medical laboratory science,Fifth Year,Single,First Class,Occasionally,Frequently,Occasionally,Frequently,Sometimes,Rarely,5-6 hours,0,5-6 hours,0
+54,Female,Sociology ,Post Graduate,Single,Second Class Upper,Occasionally,Occasionally,Occasionally,Frequently,Sometimes,Occasionally,9-10 hours,0,5-6 hours,3-4 hours
+20,Female,Biology ,Second Year,Single,Second Class Upper,Occasionally,Not at all?,Almost constantly,Occasionally,Sometimes,Occasionally,5-6 hours,0,Less than 5 hours,7 and above
+40,Female,Sociology ,Fourth Year,Single,Second Class Lower,Frequently,Occasionally,Occasionally,Occasionally,Sometimes,Rarely,7-8 hours,0,5-6 hours,5-6 hours
+25,Male,Literature ,Fifth Year,Single,First Class,Occasionally,Not at all?,Not at all,Occasionally,Always,Never,3-4 hours,0,7-8 hours,1-2 hours
+21,Male,Chemistry ,Third Year,Single,Second Class Lower,Occasionally,Frequently,Frequently,Occasionally,Sometimes,Never,10 or more,0,7-8 hours,3-4 hours
+19,Female,Computer Engineering ,Second Year,Single,First Class,Occasionally,Almost constantly,Occasionally,Frequently,,Occasionally,5-6 hours,0,7-8 hours,1-2 hours
+29,Male,Economics ,Third Year,Single,First Class,Occasionally,Occasionally,Occasionally,Occasionally,Sometimes,Frequently,5-6 hours,0,5-6 hours,3-4 hours
+20,Male,Computer Science,Fourth Year,Single,Second Class Upper,Almost constantly,Occasionally,Occasionally,Not at all,Sometimes,Never,3-4 hours,0,5-6 hours,1-2 hours
+22,Female,Nursing ,Third Year,Single,Second Class Upper,Occasionally,Frequently,,Occasionally,Always,Frequently,10 or more,0,5-6 hours,0
+19,Female,IT,Third Year,Single,Second Class Upper,Occasionally,Frequently,Frequently,Occasionally,Sometimes,Never,0-2 hours,0,7-8 hours,0
+21,Female,Computer engineering??,Third Year,Single,Pass,Occasionally,Almost constantly,Frequently,Frequently,Sometimes,Never,3-4 hours,0,5-6 hours,0
+25,Female,Sociology ,Second Year,Single,Second Class Upper,Occasionally,Not at all?,Occasionally,Occasionally,Sometimes,Rarely,5-6 hours,0,7-8 hours,3-4 hours
+21,Male,Computer Science,First Year,Single,Second Class Lower,Occasionally,Almost constantly,Almost constantly,Occasionally,,,5-6 hours,,7-8 hours,3-4 hours
+18,Male,Computer Science ,Third Year,Single,First Class,Occasionally,Frequently,Occasionally,Almost constantly,Sometimes,Never,3-4 hours,0,7-8 hours,3-4 hours
+26,Female,Sociology ,Fifth Year,Single,First Class,Occasionally,Occasionally,Frequently,Occasionally,Sometimes,Rarely,3-4 hours,0,5-6 hours,7 and above
+23,Female,Microbiology ,Third Year,Single,First Class,Occasionally,Occasionally,Occasionally,Occasionally,Sometimes,Never,5-6 hours,0,5-6 hours,1-2 hours
+20,Female,Computer Engineering ,Fourth Year,Single,Second Class Upper,Occasionally,Almost constantly,Occasionally,Occasionally,Sometimes,Frequently,3-4 hours,0,Less than 5 hours,1-2 hours
+20,Female,Nursing ,Second Year,Single,Second Class Lower,Occasionally,Almost constantly,Occasionally,Occasionally,Sometimes,Never,5-6 hours,0,5-6 hours,0
+21,Female,Film Studies,Second Year,,Second Class Upper,Occasionally,Almost constantly,Almost constantly,Occasionally,Sometimes,Rarely,10 or more,0,7-8 hours,
+20,Female,Teacher Training,Second Year,Single,First Class,Almost constantly,Frequently,Occasionally,Occasionally,Sometimes,Occasionally,9-10 hours,,7-8 hours,0
+21,Female,Nutrition and dietetics ,Third Year,Single,Second Class Upper,Occasionally,Occasionally,Frequently,Occasionally,Sometimes,Rarely,3-4 hours,0,5-6 hours,1-2 hours
+22,Male,Law,Second Year,Single,Second Class Upper,Almost constantly,Not at all?,Occasionally,Frequently,Sometimes,Rarely,5-6 hours,5 to 6,Less than 5 hours,3-4 hours
+24,Female,Psychology,Fifth Year,Single,Second Class Upper,Occasionally,Not at all?,Occasionally,Almost constantly,Sometimes,Rarely,3-4 hours,0,5-6 hours,3-4 hours
+43,Male,Mechanical engineering ,Post Graduate,,Pass,Occasionally,Not at all?,Occasionally,Frequently,Never,,5-6 hours,3 to 4,Less than 5 hours,3-4 hours
+26,Female,Accounting ,Post Graduate,Single,Second Class Upper,Occasionally,Not at all?,Occasionally,Almost constantly,Sometimes,Rarely,5-6 hours,0,5-6 hours,0
+17,Female,Law,Post Graduate,Single,Second Class Upper,Occasionally,Occasionally,Frequently,Occasionally,Sometimes,Never,0-2 hours,0,9 or more hours,0
+25,Female,Computer science ,Third Year,Single,First Class,Occasionally,Frequently,Frequently,Occasionally,Sometimes,Occasionally,10 or more,0,5-6 hours,3-4 hours
+16,Male,ux/ui design,Third Year,Single,Second Class Upper,Occasionally,Frequently,Occasionally,Frequently,Sometimes,Never,3-4 hours,0,5-6 hours,1-2 hours
+18,Female,Psychology,Fifth Year,Single,First Class,Almost constantly,Not at all?,Frequently,Occasionally,Sometimes,Occasionally,3-4 hours,0,5-6 hours,1-2 hours
+17,Female,Kink,Third Year,Single,Second Class Upper,Occasionally,Almost constantly,Not at all,Occasionally,Sometimes,Occasionally,3-4 hours,7 or more,Less than 5 hours,7 and above
+40,Female,Psychology ,Fifth Year,Single,First Class,Not at all,Occasionally,Not at all,Occasionally,Sometimes,Never,7-8 hours,0,7-8 hours,0
+26,Female,Psychology ,Fifth Year,Single,Second Class Upper,Occasionally,Frequently,Not at all,Occasionally,Sometimes,Frequently,0-2 hours,0,5-6 hours,1-2 hours
+16,Female,Artificial Intelligence ,Second Year,Single,Second Class Lower,Occasionally,Occasionally,Occasionally,Not at all,Sometimes,Rarely,7-8 hours,0,9 or more hours,3-4 hours
+24,Male,Engineering ,Fourth Year,Married,Second Class Upper,Frequently,Occasionally,Occasionally,Occasionally,Always,Rarely,3-4 hours,0,7-8 hours,0
+19,Male,Computer sciences,Third Year,Single,Second Class Lower,Almost constantly,Not at all?,Almost constantly,Occasionally,Sometimes,Occasionally,3-4 hours,0,5-6 hours,3-4 hours
+25,Female,Law,Third Year,Single,Second Class Lower,Occasionally,Frequently,Almost constantly,Occasionally,Sometimes,Rarely,0-2 hours,0,5-6 hours,5-6 hours
