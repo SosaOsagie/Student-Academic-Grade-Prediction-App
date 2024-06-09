@@ -139,5 +139,6 @@ if submit_button:
     grade_category = classify_grade(predicted_grade)
 
     # Show the predicted grade and its category
-    st.write(f'Predicted Grade: {predicted_grade[0]} ({grade_category})')
+    st.write(f'Grade Classification: {grade_category}')
+
 
