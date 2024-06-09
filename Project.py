@@ -117,9 +117,9 @@ if submit_button:
         'How many hours a day do you put aside for studying?': [study_hours]
     })
 
-    # Predict the grade
-    predicted_grade = model.predict(input_data)
 
+# Predict the grade
+    predicted_grade = model.predict(input_data)[0]  # Get the first element of the prediction array
 
     def classify_grade(predicted_grade):
         if 1.0 <= predicted_grade < 2.0:
@@ -138,7 +138,7 @@ if submit_button:
     # Classify the predicted grade
     grade_category = classify_grade(predicted_grade)
 
-    # Show the predicted grade and its category
+    # Show the grade classification only
     st.write(f'Grade Classification: {grade_category}')
 
 
