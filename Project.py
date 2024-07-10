@@ -9,22 +9,38 @@ from sklearn.preprocessing import OneHotEncoder
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.model_selection import train_test_split
+from xgboost import XGBRegressor
 
-
-
-
-
+# Load the student data
 student_data = pickle.load(open('student_data.pkl', 'rb'))
 
-def train_evaluate_model(student_data):
-    # Drop rows with missing target values
-    student_data.dropna(subset=['Grade'], inplace=True)
+def depression_anxiety_indicator(responses):
+    depression_threshold = {'Frequently', 'Almost Constantly'}
+    non_depression_threshold = {'Not at all', 'Occasionally'}
 
-    # Separate features and target variable
+    if any(response in depression_threshold for response in responses):
+        return 'Yes'
+    elif all(response in non_depression_threshold for response in responses):
+        return 'No'
+    else:
+        return 'No'
+
+relevant_questions = [
+    'How often have you felt down or hopeless?',
+    'How often have you had trouble falling or staying asleep, or slept too much?',
+    'How often have you felt tired or had little energy?',
+    'How often have you felt nervous, anxious, or on edge?',
+    'How often have you become easily annoyed or irritable?',
+    'How frequently do you experience panic attacks?'
+]
+
+student_data['Depression_Anxiety_Indicator'] = student_data[relevant_questions].apply(depression_anxiety_indicator, axis=1)
+
+def train_evaluate_models(student_data):
+    student_data.dropna(subset=['Grade'], inplace=True)
     X = student_data.drop(['Grade'], axis=1)
     y = student_data['Grade']
 
-    # Define categorical and numerical features
     categorical_features = ['Gender', 'Course', 'Year', 'Marital Status',
                             'How often have you felt down or hopeless?',
                             'How often have you had trouble falling or staying asleep, or slept too much?',
@@ -36,16 +52,14 @@ def train_evaluate_model(student_data):
                             'How many alcoholic drinks/beer do you consume in a typical week?',
                             'How many hours of sleep do you usually get on a typical night?',
                             'How many hours a day do you put aside for studying?']
-
     numerical_features = ['Age']
 
-    # Create preprocessing pipeline
     numeric_transformer = Pipeline(steps=[
-        ('num', 'passthrough')  # Passthrough numerical features without transformation
+        ('num', 'passthrough')
     ])
 
     categorical_transformer = Pipeline(steps=[
-        ('onehot', OneHotEncoder(handle_unknown='ignore'))  # One-hot encode categorical features
+        ('onehot', OneHotEncoder(handle_unknown='ignore'))
     ])
 
     preprocessor = ColumnTransformer(
@@ -54,24 +68,20 @@ def train_evaluate_model(student_data):
             ('cat', categorical_transformer, categorical_features)
         ])
 
-    # Append the model to the preprocessing pipeline
-    model = Pipeline(steps=[('preprocessor', preprocessor),
-                            ('regressor', RandomForestRegressor(random_state=42))])
+    rf_model = Pipeline(steps=[('preprocessor', preprocessor),
+                               ('regressor', RandomForestRegressor(random_state=42))])
 
-    # Split the data into training and testing sets
+    xgb_model = Pipeline(steps=[('preprocessor', preprocessor),
+                                ('regressor', XGBRegressor(random_state=42))])
+
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-    # Train the model
-    model.fit(X_train, y_train)
+    rf_model.fit(X_train, y_train)
+    xgb_model.fit(X_train, y_train)
 
-    return model
+    return rf_model, xgb_model
 
-# Load the model
-model = train_evaluate_model(student_data)
-
-
-
-
+rf_model, xgb_model = train_evaluate_models(student_data)
 
 # Streamlit UI
 st.title('Grade Prediction System')
@@ -96,9 +106,7 @@ with st.form('input_form'):
 
     submit_button = st.form_submit_button(label='Predict Grade')
 
-# Button to trigger grade prediction
 if submit_button:
-    # Prepare user input for prediction
     input_data = pd.DataFrame({
         'Age': [age],
         'Gender': [gender],
@@ -117,9 +125,8 @@ if submit_button:
         'How many hours a day do you put aside for studying?': [study_hours]
     })
 
-
-# Predict the grade
-    predicted_grade = model.predict(input_data)[0]  # Get the first element of the prediction array
+    rf_predicted_grade = rf_model.predict(input_data)[0]
+    xgb_predicted_grade = xgb_model.predict(input_data)[0]
 
     def classify_grade(predicted_grade):
         if 1.0 <= predicted_grade < 2.0:
@@ -129,16 +136,18 @@ if submit_button:
         elif 2.1 <= predicted_grade < 2.2:
             return 'Second Class Lower'
         elif 2.2 <= predicted_grade < 3.0:
-            return 'Second Class Lower'  # Repeated for inclusivity
+            return 'Second Class Lower'
         elif 3.0 <= predicted_grade < 4.0:
             return 'Third Class'
         else:
             return 'Pass'
 
-    # Classify the predicted grade
-    grade_category = classify_grade(predicted_grade)
+    rf_grade_category = classify_grade(rf_predicted_grade)
+    xgb_grade_category = classify_grade(xgb_predicted_grade)
 
-    # Show the grade classification only
-    st.write(f'Grade Classification: {grade_category}')
+    responses = [felt_down, trouble_sleeping, tiredness, nervousness, irritability, panic_attacks]
+    depression_anxiety = depression_anxiety_indicator(responses)
 
-
+    st.write(f'RandomForest Predicted Grade: {rf_grade_category}')
+    st.write(f'XGBoost Predicted Grade: {xgb_grade_category}')
+    st.write(f'Depression/Anxiety Indicator: {depression_anxiety}')
